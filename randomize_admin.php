@@ -129,8 +129,8 @@ function randomize_list() {
 
 	<table class="widefat">
 	<thead><tr>
-		<th>ID</th>
-		<th>Text</th>
+		<th width="10%">ID</th>
+		<th width="60%">Text</th>
 		<th width="10%">Category</th>
 		<th width="10%">Author</th>
 		<th width="10%">Action</th>

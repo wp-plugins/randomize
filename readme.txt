@@ -13,8 +13,9 @@ Randomize simply displays randomized text. You're able to deposit text passages 
 
 = Notice! =
 
-I am not the author of this plugin. But the original author has discontinued the development, so that I decided to continue the free distribution under the new name “Randomize” (“Random Text” so far).
-Because I don’t have the know-how to continue the development for this plugin I may need your help! So if you have skills, take a look on the To-Do list and write a mail to me.
+I am not the author of this plugin. But the original author has discontinued the development, so that I decided to continue the free distribution under the new name “Randomize”. It's based on "Random Text" by pantsonhead.
+
+To continue the development of this plugin I may need your help! So if you have skills, take a look on the To-Do list and write a mail to me.
 
 = To-Do list =
 * Make it multi language to auto-detect the right language. (Deposit language strings in MO&PO files. The strings are fixed in the php files so far.)
