@@ -3,7 +3,7 @@ Contributors: se-schwarz
 Tags: widget, plugin, sidebar, random, text, quotes
 Requires at least: 2.8
 Tested up to: 4.2
-Stable tag: trunk
+Stable tag: 1.0.1
 
 Store and display randomized/rotated text by category in sidebar widget or templates.
 
